@@ -1,0 +1,114 @@
+[33mcommit ef59ec5b43062fbd30fb209df9be3132eed90e6e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Sun Jul 5 14:05:49 2026 +0100
+
+    Update gitignore
+
+[33mcommit 248bb32ee1ab8d12c8141d79d1dbd20f8c801153[m
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Sun Jul 5 13:58:44 2026 +0100
+
+    Update
+
+[33mcommit fe0e6dabdb0f388a598a89f814c097123be2f502[m
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Sun Jul 5 13:57:55 2026 +0100
+
+    Revert "Remove file"
+    
+    This reverts commit 1f3beaf51f0ee776ce49f56e634ab33759782a12.
+
+[33mcommit 1f3beaf51f0ee776ce49f56e634ab33759782a12[m
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Sun Jul 5 13:48:44 2026 +0100
+
+    Remove file
+
+[33mcommit 49f9ac2ab0fc06045a646f63c4f8996b616d1e55[m
+Merge: 9452d39 54ddde0
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Sun Jul 5 13:44:39 2026 +0100
+
+    Merge branch 'main' of https://github.com/Linhhoang0510/Durham-Amazon-Reviews-Text-Classification
+
+[33mcommit 54ddde0681304ae7552f242aa789448f849b4d93[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Fri Jul 3 18:08:08 2026 +0100
+
+    Kaggle Notebook | Amazon Reviews Classification (4 models) | Version 7
+
+[33mcommit 9452d398c0fb4db4a4bddb18219c2913f2ca9f24[m
+Author: Lilly <linhhoanggg@gmail.com>
+Date:   Fri Jul 3 16:19:45 2026 +0100
+
+    Update
+
+[33mcommit 9dcef97350ff850b5d269ac7a9a32cad1b47156d[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Wed Aug 21 19:27:43 2024 +0100
+
+    Update README.md
+
+[33mcommit 34f1ec8782899e1720d349e85bc999f37556fc57[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Wed Aug 21 19:23:19 2024 +0100
+
+    Update README.md
+
+[33mcommit ce593e5d78ac4cc68e04bfe77c524c39afe8f62e[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Wed Aug 21 18:40:02 2024 +0100
+
+    Create README.md
+
+[33mcommit b91a59a794822e40f4da79e2d3f59fa011474c98[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Fri Jun 14 14:54:03 2024 +0100
+
+    Kaggle Notebook | Amazon Reviews Classification (4 models) | Version 7
+
+[33mcommit 06ea927ce727b238dca7aa6cfc6b6cb7a2a1f5dc[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Fri Jun 14 14:01:28 2024 +0100
+
+    Add files via upload
+    
+    Save the trained model for later use
+
+[33mcommit 0786cfca4400657f20c16c285c4519f399645ca9[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Fri Jun 14 10:17:08 2024 +0100
+
+    Delete main.py
+
+[33mcommit d4a17fd2b1eaf21133adacfc9e2996eda120fabf[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Fri Jun 14 10:17:00 2024 +0100
+
+    Delete main
+
+[33mcommit 42c19e3ef248e27c5bb3a1df1cffafa7b15ed1cc[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Thu Jun 13 22:28:23 2024 +0100
+
+    Kaggle Notebook | Amazon Reviews Classification (4 models) | Version 7
+
+[33mcommit d89b02af3807f541c29ebceab51019b5d4712bbd[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Thu Jun 13 22:26:10 2024 +0100
+
+    Kaggle Notebook | Amazon Reviews Classification (4 models) | Version 7
+
+[33mcommit 10335eb893f30ee8ee74d1e3d71d6464d61d3b76[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Thu Mar 21 12:47:48 2024 +0000
+
+    File to clean input text for different models
+
+[33mcommit ad9de37d0e2424d0ab12d012d55f12d5ad21aeb5[m
+Author: Lilly Nguyen <133096460+Linhhoang0510@users.noreply.github.com>
+Date:   Thu Mar 21 12:39:54 2024 +0000
+
+    Upload Document Embedding function
+    
+    Document Embedding function computed by GloVe Word Embeddings
